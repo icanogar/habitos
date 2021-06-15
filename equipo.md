@@ -1,0 +1,4 @@
+Cristian es magíster en Filosofía de la Universidad Pontificia Bolivariana. Ha sido profesor en los campos de hermenéutica, teoría y crítica literaria, de edición académica y digital. Actualmente es profesor del pregrado de literatura de la Universidad EAFIT y editor de la Editorial EAFIT. Además, se desempeña como editor de apoyo en temas de indexación y calidad para las publicaciones en la misma universidad.
+
+Iñaki es estudiante de Filología Hispánica y Lingüística en la Universität Potsdam (Alemania), donde trabaja como ayudante de la cátedra de Lingüística Románica (Español y Francés). Simultáneamente se forma en herramientas digitales dentro del programa modular del Laboratorio de Innovación en Humanidades Digitales de la UNED. Desde 2020 colabora con el proyecto BIESES (Bibliografía de Escritoras Españolas), para el que ha editado en formato digital la poesía de Nicolasa de Helguero y Alvarado (1719-1805).
+
