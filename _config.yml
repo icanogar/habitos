@@ -20,8 +20,8 @@
 
 title:            'Catálogo de hábitos'
 description:      'Hábitos de órdenes religiosas'
-url:              ''
-baseurl:          '/meinWax'
+url:              'https://icanogar.github.io'
+baseurl:          '/habitos'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
 encoding:         UTF-8
