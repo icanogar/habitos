@@ -69,7 +69,7 @@ collections:
     output: true
   catalogo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'qatar_item.html' # the layout for the pages to use
+    layout: 'qatar_item' # the layout for the pages to use
     metadata:
       source: 'catalogo.csv' # path to the metadata file within `_data`
     images:
