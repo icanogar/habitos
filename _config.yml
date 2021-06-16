@@ -18,12 +18,13 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Wax'
+title:            'Catálogo de Hábitos'
 description:      'Minimal Exhibitions with Jekyll'
-url:              'https://minicomp.github.io'
-baseurl:          '/wax'
+url:              'https://icanogar.github.io/meinWax'
+baseurl:          '/meinWax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
+encoding:         utf-8
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
