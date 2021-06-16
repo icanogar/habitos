@@ -110,7 +110,7 @@ menu:
   - label: 'Acerca de Wax'
     sub:
       - label: 'Wax'
-        link: '/about/'
+        link: '/equipo/'
       - label: 'Documentación'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Créditos'
