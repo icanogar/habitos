@@ -2,7 +2,7 @@
 layout: page
 show_title: false
 banner:
-  collection: qatar
+  collection: catalogo
   pid: obj10
   y: 25%
   height: '500px'
@@ -12,6 +12,6 @@ __Wax__ es un proyecto de [computación mínima](http://go-dh.github.io/mincomp/
 
 Los objetos de esta colección de demostración provienen del Museo de Arte Islámico de Qatar, (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
 
-### Browse the Collection
+### Explore el catálogo
 
-{% include collection_gallery.html facet_by='object_type' collection='qatar' %}
+{% include collection_gallery.html facet_by='object_type' collection='catalogo' %}
