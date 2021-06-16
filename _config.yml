@@ -18,8 +18,8 @@
 # Feel free to change these! For more info, refer to:
 # ~> https://jekyllrb.com/docs/configuration/options/
 
-title:            'Catálogo de Hábitos'
-description:      'Minimal Exhibitions with Jekyll'
+title:            'Catálogo de hábitos'
+description:      'Hábitos de órdenes religiosas'
 url:              'https://icanogar.github.io/meinWax'
 baseurl:          '/meinWax'
 copyright:        'Example copyright org, 2019'
