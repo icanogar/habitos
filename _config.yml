@@ -105,7 +105,9 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'Acerca de'
+  - label: 'Equipo'
+    link: '/about/'
+  - label: 'Acerca de Wax'
     sub:
       - label: 'Wax'
         link: '/about/'
@@ -113,17 +115,11 @@ menu:
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Créditos'
         link: '/credits/'
-  - label: 'Exhibits'
-    sub:
-      - label: 'Inline Parallax Image'
-        link: '/exhibits/a/'
-      - label: 'Inline Image References'
-        link: '/exhibits/b/'
-  - label: 'Browse'
+  - label: 'Explorar'
     link: '/collection/'
-  - label: 'Búsqueda'
+  - label: 'Buscar'
     link: '/search/'
-  - label: 'Reuse'
+  - label: 'Rehusar'
     link: '/reuse/'
 
 # --------------------------------------------------------------
