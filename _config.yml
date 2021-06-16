@@ -24,6 +24,7 @@ url:              'https://icanogar.github.io/meinWax'
 baseurl:          '/meinWax'
 copyright:        'Example copyright org, 2019'
 logo:             '/assets/logo.png'
+encoding:         UTF-8
 
 # ---------------------------------------------------------------
 # BUILD SETTINGS
@@ -68,7 +69,7 @@ collections:
     output: true
   catalogo: # name of collection
     output: true # makes sure pages are output as html files
-    layout: 'catalogo_item' # the layout for the pages to use
+    layout: 'qatar_item.html' # the layout for the pages to use
     metadata:
       source: 'catalogo.csv' # path to the metadata file within `_data`
     images:
@@ -104,13 +105,13 @@ search:
 # submenu via `sub`.
 
 menu:
-  - label: 'About'
+  - label: 'Acerca de'
     sub:
       - label: 'Wax'
         link: '/about/'
-      - label: 'Documentation'
+      - label: 'Documentación'
         link: 'https://minicomp.github.io/wiki/wax/'
-      - label: 'Credits'
+      - label: 'Créditos'
         link: '/credits/'
   - label: 'Exhibits'
     sub:
@@ -120,7 +121,7 @@ menu:
         link: '/exhibits/b/'
   - label: 'Browse'
     link: '/collection/'
-  - label: 'Search'
+  - label: 'Búsqueda'
     link: '/search/'
   - label: 'Reuse'
     link: '/reuse/'
@@ -134,9 +135,9 @@ footer:
   links:
     - label: 'GitHub'
       link: 'https://github.com/minicomp/wax'
-    - label: 'Credits'
+    - label: 'Créditos'
       link: '/credits'
-    - label: 'Contact'
+    - label: 'Contacto'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
     - img: '/img/logo.png'
