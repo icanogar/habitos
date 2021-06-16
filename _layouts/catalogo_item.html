@@ -3,22 +3,25 @@ layout: generic_collection_item
 image_viewer: 'openseadragon'
 pagination: true
 meta:
-  - label: 'Label'
+  - label: 'Título'
     value: page.label
-  - label: 'Artist'
-    value: page.artist
-  - label: 'Type'
-    value: page.object_type
-  - label: 'Location'
-    value: page.location
-  - label: 'Current Location'
-    value: page.current_location
-  - label: 'Date'
-    value: page._date
-  - label: 'Source'
+  - label: 'Orden'
+    value: page.orden_religiosa
+  - label: 'Género'
+    value: page.sexo
+  - label: 'Fuente'
     value: page.source
-    type:  link
-  - label: 'IIIF Manifest'
-    value: page.manifest
-    type:  link
+  - label: 'Autor'
+    value: page.author
+  - label: 'Fecha de publicación'
+    value: page._date
 ---
+
+- label: 'Type'
+value: page.object_type
+- label: 'Location'
+value: page.location
+
+- label: 'IIIF Manifest'
+value: page.manifest
+type:  link
