@@ -106,11 +106,11 @@ search:
 
 menu:
   - label: 'Equipo'
-    link: '/about/'
+    link: '/equipo/'
   - label: 'Acerca de Wax'
     sub:
       - label: 'Wax'
-        link: '/equipo/'
+        link: '/about/'
       - label: 'Documentación'
         link: 'https://minicomp.github.io/wiki/wax/'
       - label: 'Créditos'
