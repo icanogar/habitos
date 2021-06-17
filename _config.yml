@@ -22,8 +22,8 @@ title:            'Catálogo de hábitos'
 description:      'Hábitos de órdenes religiosas'
 url:              'https://icanogar.github.io'
 baseurl:          '/habitos'
-copyright:        'Example copyright org, 2019'
-logo:             '/assets/logo.png'
+copyright:        'CC BY-SA-NC 4.0'
+logo:             '/img/monja.png'
 encoding:         UTF-8
 
 # ---------------------------------------------------------------
@@ -130,12 +130,12 @@ menu:
 footer:
   links:
     - label: 'GitHub'
-      link: 'https://github.com/minicomp/wax'
+      link: 'https://github.com/icanogar/habitos'
     - label: 'Créditos'
       link: '/credits'
     - label: 'Contacto'
       link: 'https://gitter.im/minicomp/wax/'
   logos:
-    - img: '/img/logo.png'
+    - img: '/img/monja.png'
 
 # FIN
