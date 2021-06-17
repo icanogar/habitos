@@ -73,9 +73,9 @@ layout: none
       "label": "obj013"
     },
     {
-      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/Obj014/manifest.json",
+      "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj014/manifest.json",
       "@type": "sc:Manifest",
-      "label": "Obj014"
+      "label": "obj014"
     },
     {
       "@id": "{{ '/' | absolute_url }}img/derivatives/iiif/obj015/manifest.json",
