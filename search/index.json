@@ -180,7 +180,7 @@ layout: none
     "source": "Figures pour l'Histoire des ordres monastiques, religieux et militaires",
     "author": "Père Helyot",
     "collection": "catalogo",
-    "thumbnail": "/img/derivatives/iiif/images/obj014/full/250,/0/default.jpg",
+    "thumbnail": "",
     "permalink": "/catalogo/obj014",
     "lunr_id": 13
   },
@@ -238,7 +238,7 @@ layout: none
   },
   {
     "pid": "obj019",
-    "label": "Antiguo Carmelito",
+    "label": "Antiguo Carmelita",
     "orden_religiosa": "Orden de los Carmelitas descalzos",
     "sexo": "Hombre",
     "description": "Posteriormente, junto con San Juan de la Cruz, Santa Teresa de Jesus fundó la rama de los Carmelitas Descalzos.",
@@ -251,7 +251,7 @@ layout: none
   },
   {
     "pid": "obj020",
-    "label": "Carmelito descalzo con capa",
+    "label": "Carmelita descalzo con capa",
     "orden_religiosa": "Orden de los Carmelitos descalzos",
     "sexo": "Hombre",
     "description": null,
@@ -277,7 +277,7 @@ layout: none
   },
   {
     "pid": "obj022",
-    "label": "Religioso Carmelito de la antigua observancia con capa y manto",
+    "label": "Religioso Carmelita de la antigua observancia con capa y manto",
     "orden_religiosa": "Orden de los Carmelitos descalzos",
     "sexo": "Hombre",
     "description": null,
@@ -316,7 +316,7 @@ layout: none
   },
   {
     "pid": "obj025",
-    "label": "Religioso Carmelito dezcalzo en hábito ordinario",
+    "label": "Religioso Carmelita dezcalzo en hábito ordinario",
     "orden_religiosa": "Orden de los Carmelitos descalzos",
     "sexo": "Hombre",
     "description": null,
@@ -329,7 +329,7 @@ layout: none
   },
   {
     "pid": "obj026",
-    "label": "Religioso Carmelito dezcalzo con abrigo",
+    "label": "Religioso Carmelita dezcalzo con manto",
     "orden_religiosa": "Orden de los Carmelitos descalzos",
     "sexo": "Hombre",
     "description": null,
@@ -342,7 +342,7 @@ layout: none
   },
   {
     "pid": "obj027",
-    "label": "Hermano converso de La Orden de los Carmelitos descalzos faisant la queste",
+    "label": "Hermano converso de La Orden de los Carmelitas descalzos faisant la queste",
     "orden_religiosa": "Orden de los Carmelitos descalzos",
     "sexo": "Hombre",
     "description": null,
@@ -612,70 +612,5 @@ layout: none
     "thumbnail": "/img/derivatives/iiif/images/obj047/full/250,/0/default.jpg",
     "permalink": "/catalogo/obj047",
     "lunr_id": 46
-  },
-  {
-    "pid": "obj048",
-    "label": null,
-    "orden_religiosa": null,
-    "sexo": null,
-    "description": null,
-    "source": null,
-    "author": null,
-    "collection": "catalogo",
-    "thumbnail": "",
-    "permalink": "/catalogo/obj048",
-    "lunr_id": 47
-  },
-  {
-    "pid": "obj049",
-    "label": null,
-    "orden_religiosa": null,
-    "sexo": null,
-    "description": null,
-    "source": null,
-    "author": null,
-    "collection": "catalogo",
-    "thumbnail": "",
-    "permalink": "/catalogo/obj049",
-    "lunr_id": 48
-  },
-  {
-    "pid": "obj050",
-    "label": null,
-    "orden_religiosa": null,
-    "sexo": null,
-    "description": null,
-    "source": null,
-    "author": null,
-    "collection": "catalogo",
-    "thumbnail": "",
-    "permalink": "/catalogo/obj050",
-    "lunr_id": 49
-  },
-  {
-    "pid": "obj051",
-    "label": null,
-    "orden_religiosa": null,
-    "sexo": null,
-    "description": null,
-    "source": null,
-    "author": null,
-    "collection": "catalogo",
-    "thumbnail": "",
-    "permalink": "/catalogo/obj051",
-    "lunr_id": 50
-  },
-  {
-    "pid": "obj052",
-    "label": null,
-    "orden_religiosa": null,
-    "sexo": null,
-    "description": null,
-    "source": null,
-    "author": null,
-    "collection": "catalogo",
-    "thumbnail": "",
-    "permalink": "/catalogo/obj052",
-    "lunr_id": 51
   }
 ]
