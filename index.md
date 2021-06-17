@@ -4,13 +4,13 @@ show_title: false
 banner:
   collection: catalogo
   pid: obj010
-  y: 28%
+  y: 30%
   height: '450px'
 ---
 
-__Wax__ es un proyecto de [computación mínima](http://go-dh.github.io/mincomp/) concebido para producir exposiciones basadas en la permanencia, economía y flexibilidad. La tecnología que lo soporta está hecha para aprender y enseñar, y permite generar colecciones de imágenes y exposiciones académicas hermosas y de alta calidad. Para empezar a usar Wax, puede consultar su [documentación](https://minicomp.github.io/wiki/#/wax/), que incluye instrucciones de instalación y otras informaciones..
+Si las formas de vestir son un lenguaje, como lo describió Barthes en *Sistema de la moda*, el Catálogo de hábitos que ofrecemos en este objeto virtual constituye una pequeña Babel, un inventario de diferentes formas de vida, oficios y trabajos cotidianos, actos litúrgicos, simbologías y representaciones que, más allá de dejar un registro histórico sobre la evolución y cambios de una “moda” (para decirlo en términos modernos), da cuenta de los modos de relación de estas comunidades con el entorno geográfico y social en el que se establecen.
 
-Los objetos de esta colección provienen de materiales en dominio público de las Biblioteca Nacional de (courtesy of [WikiMedia](https://commons.wikimedia.org/wiki/Category:Google_Art_Project_works_in_The_Museum_of_Islamic_Art,_Qatar) and [Google Art Project](https://www.google.com/culturalinstitute/about/artproject/)) and The Qatar National Library (via [World Digital Library](https://www.wdl.org/en/)).
+Este es el proyecto final del grupo [Les Acarettes](pages/equipo.md) para el curso  *Minimal Computing & Wax*, impartido por Dr. Alex Gil y Marii Nyröp durante el [#DreamLab21](https://web.sas.upenn.edu/dream-lab/minimal-computing-2021/) (University of Pennsylvania, EEUU, 14-17 junio 2021).
 
 ### Explore el catálogo
 

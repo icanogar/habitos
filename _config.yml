@@ -107,20 +107,20 @@ search:
 menu:
   - label: 'Equipo'
     link: '/equipo/'
+  - label: 'Explorar'
+    link: '/collection/'
+  - label: 'Buscar'
+    link: '/search/'
   - label: 'Acerca de Wax'
     sub:
       - label: 'Wax'
         link: '/about/'
       - label: 'Documentación'
         link: 'https://minicomp.github.io/wiki/wax/'
+      - label: 'Reusar'
+        link: '/reuse/'
       - label: 'Créditos'
         link: '/credits/'
-  - label: 'Explorar'
-    link: '/collection/'
-  - label: 'Buscar'
-    link: '/search/'
-  - label: 'Rehusar'
-    link: '/reuse/'
 
 # --------------------------------------------------------------
 # SITE FOOTER SETTINGS
