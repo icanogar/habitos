@@ -3,7 +3,7 @@ layout: page
 show_title: false
 banner:
   collection: catalogo
-  pid: obj010
+  pid: obj011
   y: 30%
   height: '450px'
 ---
