@@ -90,12 +90,12 @@ search:
       catalogo:
         content: false # whether or not to index page content
         fields: # the metadata fields to index
-          - artist
-          - location
           - label
-          - _date
-          - object_type
-          - current_location
+          - orden_religiosa
+          - sexo
+          - description
+          - source
+          - author
 
 # --------------------------------------------------------------
 # SITE MENU SETTINGS
